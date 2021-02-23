@@ -1,0 +1,75 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-color: #252529;
+    margin: 1em;
+    color: #fff;
+    line-height: 1.6;
+}
+
+.logo {
+    font-size: 60px;
+}
+
+ul {
+    padding: 0;
+	margin: 0;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+a {
+  	display: inline-block;
+	text-align: center;
+    padding-left: 20px;
+    text-decoration: none;
+    color: #ccc;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 74px;
+    margin-bottom: 3px;
+}
+.briefing{
+background-color: #252529;
+font-size: 25px;
+margin-bottom: 2em;
+}
+
+/* section 1 */
+.section-1 {
+    background-color: crimson;
+    padding-bottom: 7em;
+    padding-top: 7em;
+    margin: auto;
+}
+
+/* section 2 */
+.section-2 {
+    background-color: #fff;
+    color: darkorange;
+    padding-bottom: 7em;
+    padding-top: 7em;
+}
+
+/* section 3 */
+.section-3 {
+    background-color: black;
+    padding-bottom: 7em;
+    padding-top: 7em;
+}
+
+/* section 4 */
+.section-4 {
+    background-color: #252529;
+    padding-bottom: 7em;
+    padding-top: 7em;
+}
+
+.sections {
+    font-size: 30px;
+}
